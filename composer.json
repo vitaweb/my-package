@@ -3,13 +3,13 @@
     "description": "",
     "authors": [
         {
-            "name": "Neil Russell",
-            "email": "neilrussell6@gmail.om"
+            "name": "Vitaweb",
+            "email": "vitawebdesigns@gmail.om"
         }
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "~"
+        "illuminate/support": "*"
     },
     "autoload": {
         "psr-0": {
