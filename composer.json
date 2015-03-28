@@ -1,0 +1,20 @@
+{
+    "name": "vitaweb/my-package",
+    "description": "",
+    "authors": [
+        {
+            "name": "Neil Russell",
+            "email": "neilrussell6@gmail.om"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "~4
+    },
+    "autoload": {
+        "psr-0": {
+            "Vitaweb\\MyPackage": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
